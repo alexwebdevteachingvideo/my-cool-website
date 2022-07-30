@@ -1,0 +1,40 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+button {
+  background: #ffffff;
+  border: 1px solid #18a0fb;
+  border-radius: 6px;
+
+  font-size: 15px;
+  color: #18a0fb;
+  padding: 11px 22px 11px 22px;
+
+  cursor: pointer;
+
+  margin-bottom: 16px;
+}
+
+button:hover {
+  background-color: #18a0fb;
+  color: #ffffff;
+}
+
+article {
+  width: 500px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 100px;
+  row-gap: 60px;
+}
+

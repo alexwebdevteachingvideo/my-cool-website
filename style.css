@@ -38,3 +38,7 @@ article {
   row-gap: 60px;
 }
 
+#like-button {
+  margin-top: 32px;
+  margin-right: 16px;
+}
